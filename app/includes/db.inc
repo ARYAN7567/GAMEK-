@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = 'https://gamek-gray.vercel.app/';
 $db = 'gamez';
 $user = 'root';
 $pass = '';
