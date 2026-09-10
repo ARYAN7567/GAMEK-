@@ -1,7 +1,8 @@
 <?php
 $host = 'https://gamek-gray.vercel.app/';
-$db = 'gamez';
-$user = 'root';
+$db = 'defaultdb';
+$user = '12610';
+$port = 12610;
 $pass = '';
 
 try {
