@@ -1,6 +1,6 @@
 <?php
 $host = 'sql305.infinityfree.com;
-$db = 'gamek';
+$db = 'if0_42743052';
 $user = 'if0_42743052';
 $port = 3306;
 $pass = 'g9XNjGFOOUo5B';
