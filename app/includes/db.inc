@@ -1,9 +1,9 @@
 <?php
-$host = 'https://gamek-gray.vercel.app/';
-$db = 'defaultdb';
-$user = '12610';
-$port = 12610;
-$pass = '';
+$host = 'sql305.infinityfree.com;
+$db = 'gamek';
+$user = 'if0_42743052';
+$port = 3306;
+$pass = 'g9XNjGFOOUo5B';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db;charset=utf8mb4", $user, $pass, [
